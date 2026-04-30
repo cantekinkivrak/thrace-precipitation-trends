@@ -1,0 +1,150 @@
+station,variable,n_years,Anderson_r1,Anderson_r1_lower_005,Anderson_r1_upper_005,Anderson_decision,trend_test_method,MK_or_MMKH_Z,MK_or_MMKH_p_value,Sen_slope_mm_per_year,trend_direction,significance_level,stars,is_significant_010,is_significant_005
+Edirne,Jan,60,0.0794,-0.2699,0.236,Independent (use MK),MK,0.6443,0.5194,0.2517,↑,NS,,False,False
+Edirne,Feb,60,-0.0379,-0.2699,0.236,Independent (use MK),MK,-0.7144,0.475,-0.1948,↓,NS,,False,False
+Edirne,Mar,60,-0.1051,-0.2699,0.236,Independent (use MK),MK,-0.1722,0.8633,-0.0627,↓,NS,,False,False
+Edirne,Apr,60,-0.1315,-0.2699,0.236,Independent (use MK),MK,-0.4273,0.6691,-0.0883,↓,NS,,False,False
+Edirne,May,60,-0.0092,-0.2699,0.236,Independent (use MK),MK,0.0702,0.9441,0.0103,↑,NS,,False,False
+Edirne,Jun,60,-0.1277,-0.2699,0.236,Independent (use MK),MK,0.4975,0.6188,0.1,↑,NS,,False,False
+Edirne,Jul,60,0.0526,-0.2699,0.236,Independent (use MK),MK,0.8165,0.4142,0.1418,↑,NS,,False,False
+Edirne,Aug,60,0.1378,-0.2699,0.236,Independent (use MK),MK,-1.231,0.2183,-0.1626,↓,NS,,False,False
+Edirne,Sep,60,0.0892,-0.2699,0.236,Independent (use MK),MK,0.1722,0.8633,0.0182,↑,NS,,False,False
+Edirne,Oct,60,0.0489,-0.2699,0.236,Independent (use MK),MK,0.5039,0.6143,0.166,↑,NS,,False,False
+Edirne,Nov,60,-0.0162,-0.2699,0.236,Independent (use MK),MK,-0.5549,0.5789,-0.1679,↓,NS,,False,False
+Edirne,Dec,60,-0.0406,-0.2699,0.236,Independent (use MK),MK,0.1658,0.8683,0.0485,↑,NS,,False,False
+Edirne,Winter,60,0.0987,-0.2699,0.236,Independent (use MK),MK,-0.4401,0.6599,-0.3,↓,NS,,False,False
+Edirne,Spring,60,-0.1719,-0.2699,0.236,Independent (use MK),MK,-0.338,0.7353,-0.1927,↓,NS,,False,False
+Edirne,Summer,60,0.0058,-0.2699,0.236,Independent (use MK),MK,0.4273,0.6691,0.1898,↑,NS,,False,False
+Edirne,Autumn,60,-0.1479,-0.2699,0.236,Independent (use MK),MK,0.3125,0.7546,0.1233,↑,NS,,False,False
+Edirne,Annual,60,0.0111,-0.2699,0.236,Independent (use MK),MK,-0.1977,0.8433,-0.1403,↓,NS,,False,False
+Edirne,Wheat,60,0.0169,-0.2699,0.236,Independent (use MK),MK,-0.2232,0.8234,-0.1314,↓,NS,,False,False
+Edirne,Sunflower,60,0.0238,-0.2699,0.236,Independent (use MK),MK,0.7717,0.4403,0.2989,↑,NS,,False,False
+Kırklareli,Jan,60,0.1611,-0.2699,0.236,Independent (use MK),MK,0.472,0.6369,0.1711,↑,NS,,False,False
+Kırklareli,Feb,60,0.0926,-0.2699,0.236,Independent (use MK),MK,-0.0319,0.9746,-0.0138,↓,NS,,False,False
+Kırklareli,Mar,60,-0.2173,-0.2699,0.236,Independent (use MK),MK,-0.0574,0.9542,-0.0124,↓,NS,,False,False
+Kırklareli,Apr,60,-0.0684,-0.2699,0.236,Independent (use MK),MK,-0.625,0.5319,-0.0958,↓,NS,,False,False
+Kırklareli,May,60,-0.1134,-0.2699,0.236,Independent (use MK),MK,0.2232,0.8234,0.0402,↑,NS,,False,False
+Kırklareli,Jun,60,0.0581,-0.2699,0.236,Independent (use MK),MK,1.6074,0.108,0.392,↑,NS,,False,False
+Kırklareli,Jul,60,0.1084,-0.2699,0.236,Independent (use MK),MK,0.6314,0.5278,0.0912,↑,NS,,False,False
+Kırklareli,Aug,60,0.1033,-0.2699,0.236,Independent (use MK),MK,-1.652,0.0985,-0.184,↓,p ≤ 0.10,*,True,False
+Kırklareli,Sep,60,0.1466,-0.2699,0.236,Independent (use MK),MK,1.2565,0.2089,0.1915,↑,NS,,False,False
+Kırklareli,Oct,60,0.2309,-0.2699,0.236,Independent (use MK),MK,0.6761,0.499,0.1587,↑,NS,,False,False
+Kırklareli,Nov,60,-0.2752,-0.2699,0.236,Autocorrelated (use MMKH),MMKH,-0.5102,0.6099,-0.186,↓,NS,,False,False
+Kırklareli,Dec,60,0.033,-0.2699,0.236,Independent (use MK),MK,-0.5613,0.5746,-0.1929,↓,NS,,False,False
+Kırklareli,Winter,60,0.2796,-0.2699,0.236,Autocorrelated (use MMKH),MMKH,-0.1499,0.8808,-0.237,↓,NS,,False,False
+Kırklareli,Spring,60,-0.1312,-0.2699,0.236,Independent (use MK),MK,-0.0702,0.9441,-0.0488,↓,NS,,False,False
+Kırklareli,Summer,60,0.0666,-0.2699,0.236,Independent (use MK),MK,0.6633,0.5071,0.2915,↑,NS,,False,False
+Kırklareli,Autumn,60,-0.0895,-0.2699,0.236,Independent (use MK),MK,0.5613,0.5746,0.2733,↑,NS,,False,False
+Kırklareli,Annual,60,-0.0195,-0.2699,0.236,Independent (use MK),MK,0.2487,0.8036,0.3568,↑,NS,,False,False
+Kırklareli,Wheat,60,0.2295,-0.2699,0.236,Independent (use MK),MK,0.287,0.7741,0.2383,↑,NS,,False,False
+Kırklareli,Sunflower,60,0.1374,-0.2699,0.236,Independent (use MK),MK,1.0013,0.3167,0.4688,↑,NS,,False,False
+Lüleburgaz,Jan,60,0.2242,-0.2699,0.236,Independent (use MK),MK,-0.6888,0.4909,-0.2138,↓,NS,,False,False
+Lüleburgaz,Feb,60,0.0701,-0.2699,0.236,Independent (use MK),MK,-0.5868,0.5574,-0.163,↓,NS,,False,False
+Lüleburgaz,Mar,60,-0.1356,-0.2699,0.236,Independent (use MK),MK,-0.5804,0.5617,-0.1071,↓,NS,,False,False
+Lüleburgaz,Apr,60,-0.0381,-0.2699,0.236,Independent (use MK),MK,-0.5613,0.5746,-0.1249,↓,NS,,False,False
+Lüleburgaz,May,60,0.1483,-0.2699,0.236,Independent (use MK),MK,0.0957,0.9238,0.0272,↑,NS,,False,False
+Lüleburgaz,Jun,60,-0.2698,-0.2699,0.236,Independent (use MK),MK,1.0077,0.3136,0.1952,↑,NS,,False,False
+Lüleburgaz,Jul,60,-0.0484,-0.2699,0.236,Independent (use MK),MK,-0.4592,0.6461,-0.0537,↓,NS,,False,False
+Lüleburgaz,Sep,60,0.2068,-0.2699,0.236,Independent (use MK),MK,0.3061,0.7595,0.0479,↑,NS,,False,False
+Lüleburgaz,Oct,60,0.092,-0.2699,0.236,Independent (use MK),MK,-0.2743,0.7839,-0.0526,↓,NS,,False,False
+Lüleburgaz,Nov,60,0.0767,-0.2699,0.236,Independent (use MK),MK,-2.143,0.0321,-0.7016,↓,p ≤ 0.05,**,True,True
+Lüleburgaz,Dec,60,0.0139,-0.2699,0.236,Independent (use MK),MK,-0.5996,0.5488,-0.2391,↓,NS,,False,False
+Lüleburgaz,Winter,60,0.2373,-0.2699,0.236,Autocorrelated (use MMKH),MMKH,-1.1816,0.2374,-0.7398,↓,NS,,False,False
+Lüleburgaz,Spring,60,0.0197,-0.2699,0.236,Independent (use MK),MK,-0.4337,0.6645,-0.1555,↓,NS,,False,False
+Lüleburgaz,Summer,60,-0.1312,-0.2699,0.236,Independent (use MK),MK,-0.0829,0.9339,-0.0198,↓,NS,,False,False
+Lüleburgaz,Autumn,60,0.0647,-0.2699,0.236,Independent (use MK),MK,-1.1416,0.2536,-0.5113,↓,NS,,False,False
+Lüleburgaz,Annual,60,0.1862,-0.2699,0.236,Independent (use MK),MK,-1.2373,0.216,-1.5155,↓,NS,,False,False
+Lüleburgaz,Wheat,60,0.0374,-0.2699,0.236,Independent (use MK),MK,-1.6391,0.1012,-1.2036,↓,NS,,False,False
+Lüleburgaz,Sunflower,60,0.0394,-0.2699,0.236,Independent (use MK),MK,-0.2998,0.7643,-0.0979,↓,NS,,False,False
+Sarıyer,Feb,60,-0.0686,-0.2699,0.236,Independent (use MK),MK,0.9312,0.3518,0.2753,↑,NS,,False,False
+Sarıyer,Mar,60,-0.2086,-0.2699,0.236,Independent (use MK),MK,0.3635,0.7162,0.0897,↑,NS,,False,False
+Sarıyer,Apr,60,0.0693,-0.2699,0.236,Independent (use MK),MK,-1.1545,0.2483,-0.1874,↓,NS,,False,False
+Sarıyer,May,60,0.0686,-0.2699,0.236,Independent (use MK),MK,-0.1212,0.9035,-0.0267,↓,NS,,False,False
+Sarıyer,Jun,60,-0.1798,-0.2699,0.236,Independent (use MK),MK,1.0333,0.3014,0.1667,↑,NS,,False,False
+Sarıyer,Jul,60,-0.124,-0.2699,0.236,Independent (use MK),MK,0.4529,0.6506,0.0775,↑,NS,,False,False
+Sarıyer,Aug,60,-0.0654,-0.2699,0.236,Independent (use MK),MK,-0.9567,0.3387,-0.221,↓,NS,,False,False
+Sarıyer,Sep,60,0.1083,-0.2699,0.236,Independent (use MK),MK,1.4605,0.1441,0.4288,↑,NS,,False,False
+Sarıyer,Oct,60,0.1074,-0.2699,0.236,Independent (use MK),MK,-0.0638,0.9491,-0.0475,↓,NS,,False,False
+Sarıyer,Nov,60,0.04,-0.2699,0.236,Independent (use MK),MK,-0.4465,0.6553,-0.1749,↓,NS,,False,False
+Sarıyer,Dec,60,-0.0383,-0.2699,0.236,Independent (use MK),MK,-1.1161,0.2644,-0.3893,↓,NS,,False,False
+Sarıyer,Winter,60,0.202,-0.2699,0.236,Independent (use MK),MK,-0.5931,0.5531,-0.4946,↓,NS,,False,False
+Sarıyer,Spring,60,-0.0101,-0.2699,0.236,Independent (use MK),MK,-0.8483,0.3963,-0.4,↓,NS,,False,False
+Sarıyer,Summer,60,-0.3047,-0.2699,0.236,Autocorrelated (use MMKH),MMKH,0.4248,0.671,0.1965,↑,NS,,False,False
+Sarıyer,Autumn,60,0.0473,-0.2699,0.236,Independent (use MK),MK,0.7973,0.4253,0.7,↑,NS,,False,False
+Sarıyer,Annual,60,0.0312,-0.2699,0.236,Independent (use MK),MK,0.2169,0.8283,0.1382,↑,NS,,False,False
+Sarıyer,Wheat,60,0.011,-0.2699,0.236,Independent (use MK),MK,-0.8738,0.3822,-0.9138,↓,NS,,False,False
+Sarıyer,Sunflower,60,-0.1297,-0.2699,0.236,Independent (use MK),MK,-0.3508,0.7257,-0.2414,↓,NS,,False,False
+Tekirdağ,Jan,60,0.2931,-0.2699,0.236,Autocorrelated (use MMKH),MMKH,-0.9246,0.3552,-0.3912,↓,NS,,False,False
+Tekirdağ,Feb,60,-0.0558,-0.2699,0.236,Independent (use MK),MK,0.1786,0.8583,0.0491,↑,NS,,False,False
+Tekirdağ,Mar,60,-0.0326,-0.2699,0.236,Independent (use MK),MK,-1.2693,0.2043,-0.2958,↓,NS,,False,False
+Tekirdağ,Apr,60,0.0419,-0.2699,0.236,Independent (use MK),MK,-0.0319,0.9746,-0.0116,↓,NS,,False,False
+Tekirdağ,May,60,0.0437,-0.2699,0.236,Independent (use MK),MK,-0.5613,0.5746,-0.0833,↓,NS,,False,False
+Tekirdağ,Jun,60,-0.2241,-0.2699,0.236,Independent (use MK),MK,-0.1276,0.8985,-0.0156,↓,NS,,False,False
+Tekirdağ,Jul,60,0.2352,-0.2699,0.236,Independent (use MK),MK,-0.7973,0.4253,-0.0693,↓,NS,,False,False
+Tekirdağ,Sep,60,0.0119,-0.2699,0.236,Independent (use MK),MK,0.7591,0.4478,0.0876,↑,NS,,False,False
+Tekirdağ,Oct,60,0.3354,-0.2699,0.236,Autocorrelated (use MMKH),MMKH,0.49,0.6242,0.1927,↑,NS,,False,False
+Tekirdağ,Nov,60,-0.0082,-0.2699,0.236,Independent (use MK),MK,-2.2769,0.0228,-0.7492,↓,p ≤ 0.05,**,True,True
+Tekirdağ,Dec,60,0.0462,-0.2699,0.236,Independent (use MK),MK,-0.9695,0.3323,-0.4017,↓,NS,,False,False
+Tekirdağ,Winter,60,0.2235,-0.2699,0.236,Independent (use MK),MK,-1.7348,0.0828,-1.2446,↓,p ≤ 0.10,*,True,False
+Tekirdağ,Spring,60,-0.0617,-0.2699,0.236,Independent (use MK),MK,-1.3585,0.1743,-0.4667,↓,NS,,False,False
+Tekirdağ,Summer,60,0.01,-0.2699,0.236,Independent (use MK),MK,-0.9057,0.3651,-0.2659,↓,NS,,False,False
+Tekirdağ,Autumn,60,0.167,-0.2699,0.236,Independent (use MK),MK,-0.5995,0.5488,-0.3174,↓,NS,,False,False
+Tekirdağ,Annual,60,0.2324,-0.2699,0.236,Independent (use MK),MK,-1.8879,0.059,-1.996,↓,p ≤ 0.10,*,True,False
+Tekirdağ,Wheat,60,0.0998,-0.2699,0.236,Independent (use MK),MK,-2.5448,0.0109,-2.1769,↓,p ≤ 0.05,**,True,True
+Tekirdağ,Sunflower,60,0.1351,-0.2699,0.236,Independent (use MK),MK,-0.6442,0.5195,-0.3033,↓,NS,,False,False
+Uzunköprü,Jan,60,0.0534,-0.2699,0.236,Independent (use MK),MK,0.0829,0.9339,0.0157,↑,NS,,False,False
+Uzunköprü,Feb,60,-0.0851,-0.2699,0.236,Independent (use MK),MK,-0.625,0.5319,-0.1452,↓,NS,,False,False
+Uzunköprü,Mar,60,-0.1155,-0.2699,0.236,Independent (use MK),MK,-0.6697,0.503,-0.1579,↓,NS,,False,False
+Uzunköprü,Apr,60,-0.0583,-0.2699,0.236,Independent (use MK),MK,-0.185,0.8533,-0.0449,↓,NS,,False,False
+Uzunköprü,May,60,-0.1965,-0.2699,0.236,Independent (use MK),MK,-0.2296,0.8184,-0.0474,↓,NS,,False,False
+Uzunköprü,Jun,60,-0.0882,-0.2699,0.236,Independent (use MK),MK,0.7718,0.4402,0.1571,↑,NS,,False,False
+Uzunköprü,Jul,60,-0.1064,-0.2699,0.236,Independent (use MK),MK,-0.3317,0.7401,-0.0197,↓,NS,,False,False
+Uzunköprü,Aug,60,0.1875,-0.2699,0.236,Independent (use MK),MK,-1.1482,0.2509,-0.0944,↓,NS,,False,False
+Uzunköprü,Sep,60,0.0033,-0.2699,0.236,Independent (use MK),MK,-0.3444,0.7305,-0.0542,↓,NS,,False,False
+Uzunköprü,Oct,60,0.1579,-0.2699,0.236,Independent (use MK),MK,-0.7271,0.4672,-0.2591,↓,NS,,False,False
+Uzunköprü,Nov,60,-0.0837,-0.2699,0.236,Independent (use MK),MK,-2.4683,0.0136,-0.9829,↓,p ≤ 0.05,**,True,True
+Uzunköprü,Dec,60,-0.0375,-0.2699,0.236,Independent (use MK),MK,-0.944,0.3452,-0.4352,↓,NS,,False,False
+Uzunköprü,Winter,60,0.0127,-0.2699,0.236,Independent (use MK),MK,-1.4478,0.1477,-1.3432,↓,NS,,False,False
+Uzunköprü,Spring,60,-0.1502,-0.2699,0.236,Independent (use MK),MK,-0.2296,0.8184,-0.0955,↓,NS,,False,False
+Uzunköprü,Summer,60,-0.1041,-0.2699,0.236,Independent (use MK),MK,0.1212,0.9035,0.0528,↑,NS,,False,False
+Uzunköprü,Autumn,60,0.0515,-0.2699,0.236,Independent (use MK),MK,-2.4874,0.0129,-1.5364,↓,p ≤ 0.05,**,True,True
+Uzunköprü,Annual,60,0.1415,-0.2699,0.236,Independent (use MK),MK,-1.5753,0.1152,-2.1874,↓,NS,,False,False
+Uzunköprü,Wheat,60,0.0127,-0.2699,0.236,Independent (use MK),MK,-1.4478,0.1477,-1.3432,↓,NS,,False,False
+Uzunköprü,Sunflower,60,-0.0212,-0.2699,0.236,Independent (use MK),MK,-0.0765,0.939,-0.0211,↓,NS,,False,False
+Çorlu,Jan,60,0.2747,-0.2699,0.236,Autocorrelated (use MMKH),MMKH,-0.9292,0.3528,-0.3326,↓,NS,,False,False
+Çorlu,Feb,60,-0.0344,-0.2699,0.236,Independent (use MK),MK,-0.3954,0.6925,-0.0767,↓,NS,,False,False
+Çorlu,Mar,60,-0.158,-0.2699,0.236,Independent (use MK),MK,-0.6633,0.5071,-0.124,↓,NS,,False,False
+Çorlu,Apr,60,-0.0369,-0.2699,0.236,Independent (use MK),MK,-0.3189,0.7498,-0.0419,↓,NS,,False,False
+Çorlu,May,60,0.0702,-0.2699,0.236,Independent (use MK),MK,0.0255,0.9796,0.0117,↑,NS,,False,False
+Çorlu,Jun,60,0.0834,-0.2699,0.236,Independent (use MK),MK,1.7157,0.0862,0.4352,↑,p ≤ 0.10,*,True,False
+Çorlu,Jul,60,0.1511,-0.2699,0.236,Independent (use MK),MK,-0.3955,0.6925,-0.0304,↓,NS,,False,False
+Çorlu,Aug,60,0.0992,-0.2699,0.236,Independent (use MK),MK,-1.0335,0.3014,-0.0686,↓,NS,,False,False
+Çorlu,Sep,60,0.0649,-0.2699,0.236,Independent (use MK),MK,1.0524,0.2926,0.1861,↑,NS,,False,False
+Çorlu,Oct,60,0.1943,-0.2699,0.236,Independent (use MK),MK,0.6506,0.5153,0.2176,↑,NS,,False,False
+Çorlu,Nov,60,-0.0494,-0.2699,0.236,Independent (use MK),MK,-2.009,0.0445,-0.5778,↓,p ≤ 0.05,**,True,True
+Çorlu,Dec,60,0.1008,-0.2699,0.236,Independent (use MK),MK,-1.2373,0.216,-0.3333,↓,NS,,False,False
+Çorlu,Winter,60,0.1808,-0.2699,0.236,Independent (use MK),MK,-1.9326,0.0533,-1.2272,↓,p ≤ 0.10,*,True,False
+Çorlu,Spring,60,-0.0122,-0.2699,0.236,Independent (use MK),MK,-0.2296,0.8184,-0.109,↓,NS,,False,False
+Çorlu,Summer,60,-0.0656,-0.2699,0.236,Independent (use MK),MK,0.8291,0.407,0.2914,↑,NS,,False,False
+Çorlu,Autumn,60,0.0505,-0.2699,0.236,Independent (use MK),MK,-0.1977,0.8433,-0.0689,↓,NS,,False,False
+Çorlu,Annual,60,0.1435,-0.2699,0.236,Independent (use MK),MK,-0.6697,0.5031,-0.716,↓,NS,,False,False
+Çorlu,Wheat,60,0.0523,-0.2699,0.236,Independent (use MK),MK,-1.384,0.1664,-1.1433,↓,NS,,False,False
+Çorlu,Sunflower,60,0.0862,-0.2699,0.236,Independent (use MK),MK,1.4287,0.1531,0.6196,↑,NS,,False,False
+İpsala,Jan,60,0.1697,-0.2699,0.236,Independent (use MK),MK,-0.574,0.566,-0.2294,↓,NS,,False,False
+İpsala,Feb,60,-0.1008,-0.2699,0.236,Independent (use MK),MK,-2.5002,0.0124,-0.6529,↓,p ≤ 0.05,**,True,True
+İpsala,Mar,60,-0.1025,-0.2699,0.236,Independent (use MK),MK,-0.81,0.4179,-0.1688,↓,NS,,False,False
+İpsala,Apr,60,0.0147,-0.2699,0.236,Independent (use MK),MK,-0.0638,0.9491,-0.0187,↓,NS,,False,False
+İpsala,May,60,-0.1978,-0.2699,0.236,Independent (use MK),MK,-1.0971,0.2726,-0.1863,↓,NS,,False,False
+İpsala,Jun,60,0.0627,-0.2699,0.236,Independent (use MK),MK,-1.2119,0.2256,-0.2304,↓,NS,,False,False
+İpsala,Jul,60,-0.0061,-0.2699,0.236,Independent (use MK),MK,-0.2297,0.8184,-0.0132,↓,NS,,False,False
+İpsala,Aug,60,0.2324,-0.2699,0.236,Independent (use MK),MK,0.3318,0.7401,0.0225,↑,NS,,False,False
+İpsala,Sep,60,0.0231,-0.2699,0.236,Independent (use MK),MK,-0.8993,0.3685,-0.1227,↓,NS,,False,False
+İpsala,Oct,60,-0.1041,-0.2699,0.236,Independent (use MK),MK,-0.1531,0.8783,-0.0257,↓,NS,,False,False
+İpsala,Nov,60,-0.0776,-0.2699,0.236,Independent (use MK),MK,-1.6073,0.108,-0.5927,↓,NS,,False,False
+İpsala,Dec,60,0.0573,-0.2699,0.236,Independent (use MK),MK,-0.9631,0.3355,-0.4229,↓,NS,,False,False
+İpsala,Winter,60,0.0965,-0.2699,0.236,Independent (use MK),MK,-1.8305,0.0672,-1.3533,↓,p ≤ 0.10,*,True,False
+İpsala,Spring,60,-0.0076,-0.2699,0.236,Independent (use MK),MK,-0.7335,0.4633,-0.2456,↓,NS,,False,False
+İpsala,Summer,60,0.1584,-0.2699,0.236,Independent (use MK),MK,-0.6888,0.4909,-0.1642,↓,NS,,False,False
+İpsala,Autumn,60,-0.0853,-0.2699,0.236,Independent (use MK),MK,-1.1799,0.238,-0.7271,↓,NS,,False,False
+İpsala,Annual,60,0.321,-0.2699,0.236,Autocorrelated (use MMKH),MMKH,-1.6746,0.094,-2.7458,↓,p ≤ 0.10,*,True,False
+İpsala,Wheat,60,0.272,-0.2699,0.236,Autocorrelated (use MMKH),MMKH,-1.8425,0.0654,-2.4162,↓,p ≤ 0.10,*,True,False
+İpsala,Sunflower,60,0.1919,-0.2699,0.236,Independent (use MK),MK,-0.4911,0.6234,-0.2017,↓,NS,,False,False

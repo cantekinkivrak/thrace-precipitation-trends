@@ -1,0 +1,5 @@
+Index,N_total,N_sig_p010,N_sig_p005,N_sig_p001,Mean_MIC,Nonlinear_only,Pearson_only
+AO,152,36,22,8,0.094,1,27
+NAO,152,31,21,4,0.093,0,22
+PNA,152,8,4,0,0.074,2,0
+ENSO,152,10,4,0,0.071,4,1
