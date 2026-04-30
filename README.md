@@ -116,7 +116,7 @@ If you use this code or methodology, please cite:
 Cantekin Kıvrak — Head, Agrometeorology and Climate Change Department  
 Atatürk Soil, Water and Agricultural Meteorology Research Institute (TAGEM)  
 Kırklareli, Turkey  
-[GitHub](https://github.com/[USERNAME]) · [ORCID](https://orcid.org/[YOUR-ORCID])
+[GitHub](https://github.com/cantekinkivrak) · [ORCID](https://orcid.org/[YOUR-ORCID])
 
 ## Acknowledgments
 
