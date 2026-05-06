@@ -4,7 +4,7 @@ This repository contains the analysis code, derived results, and synthetic test 
 
 > **Hidden Precipitation Trends in the Thrace Region of Turkey: A Multi-Method Analysis with Empirical Permutation Testing**  
 > Cantekin Kıvrak (TAGEM, Atatürk Soil, Water and Agricultural Meteorology Research Institute, Kırklareli) and Mehmet Şener (Namık Kemal University, Tekirdağ).  
-> Submitted to *Regional Environmental Change*.
+> Submitted to *Theoretical and Applied Climatology*.
 
 ## Repository contents
 
@@ -98,7 +98,7 @@ If you use this code or methodology, please cite:
 @article{Kivrak2026Thrace,
   author = {K{\i}vrak, Cantekin and {\c S}ener, Mehmet},
   title  = {Hidden Precipitation Trends in the Thrace Region of Turkey: A Multi-Method Analysis with Empirical Permutation Testing},
-  journal = {Regional Environmental Change},
+  journal = {Theoretical and Applied Climatology},
   year = {2026},
   note = {Submitted}
 }
